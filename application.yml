@@ -1,6 +1,6 @@
 Spring:
   application:
-    name: Kya Dekh Raha hai be...
+    name: Config-Default
 
 
 eureka:
